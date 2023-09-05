@@ -14,6 +14,8 @@ For this project, I have used two sentiment analysis algorithms - "VADER" and "R
 
 3. Download the csv file. Link:- https://drive.google.com/drive/folders/1de1HyVhw1RYX6tX6K9q3zyPERix99i46?usp=sharing
 
-4. Upload the file in your IDE
+4. Upload the csv file in your IDE
 
 5. Run all the commands(It may take some time since calculating results for a large no. of values, however, the values can be modified as and when required. Default is 5000)
+
+
